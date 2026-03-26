@@ -27,7 +27,7 @@ Kali Linux, Parrot OS, Tails (tool will show warning)
 → **[Latest Release](https://github.com/shirkirtia-art/PhantomTerm/releases/latest)**
 
 ### Video
-Watch the full explanation video on YouTube: [Your Video Link Here]
+Watch the full explanation video on YouTube: youtube.com/watch?v=wlRyYRbJDC8&feature=youtu.be
 
 ---
 
